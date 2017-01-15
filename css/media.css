@@ -1,0 +1,20 @@
+
+/* Responsive design start*/
+@media screen and (max-width:767px){
+	.container{
+		width:100%;
+	}
+	
+	.box-container>.image>span{
+		background:yellow
+	}
+}
+
+
+@media screen and (min-width:768px) and (max-width:980px){
+	.container{
+		width:50%;
+	}
+	
+ 
+}
