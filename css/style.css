@@ -94,7 +94,7 @@ nav>ul>li.dropdown:hover ul{
 
 .box-container{
 width:100%;	
-background-image:url("../img/bg.jpg");
+background-image:url("https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAg-AAAAJDU0ZjhiYmQ5LWMyZTYtNDE5ZS1hNWIxLWY2YWQ4MTM4MzY4Nw.jpg");
 transition:all 1s ease;
 }
 .box-container:hover{
