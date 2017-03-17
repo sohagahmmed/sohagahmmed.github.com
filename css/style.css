@@ -72,7 +72,21 @@ nav>ul>li.dropdown:hover ul{
 	animation:fadein 1s 1 ease-in-out
 }
 
-
+.link a{
+	font-size:15px;
+	background:rgba(22,221,33,1);
+	padding:5px;
+	color:white;
+	display:block;
+	text-align:center;
+	text-decoration:none;
+	text-transform: capitalize;
+}
+.link a:hover{
+	
+	background:green;
+	
+}
 
 
 @keyframes fadein{
